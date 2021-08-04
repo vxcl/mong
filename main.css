@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'mini-wakuwakuregular';
+    src: url('https://github.com/vxcl/mong/blob/main/font/mini-wakuwaku-webfont.woff2') format('woff2'),
+         url('https://github.com/vxcl/mong/blob/main/font/mini-wakuwaku-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+p {
+  font-family: mini-wakuwakuregular;
+  font-weight: normal;
+}
